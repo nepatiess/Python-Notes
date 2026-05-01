@@ -268,8 +268,6 @@ pip install seaborn matplotlib
 
 **🇬🇧** Open in Google Colab and run each cell in order. Exercises appear at the end of each section.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepatiess/Python-Notes/blob/main/Python.ipynb)
-
 ---
 
-*Python Notes · nepatiess · Google Colab Notebook*
+*Python Notes · Zeynep Koz · Google Colab Notebook*
